@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+
+
+#wrap {
+ 
+  padding: 0;
+
+  margin: 30px auto;
+}
+
+.tit {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  color: #000;
+  letter-spacing: 3px;
+}
+
+.list {
+
+  list-style: none;
+}
+
+.list > li + li {
+ 
+}
+
+.list > li .sec-tit {
+ 
+}
+
+.list > li .cont-box {
+  margin: 10px 0 0;
+}
+
+.list > li .cont-box .box {
+ 
+}
+
+.list > li .cont-box .code-area {
+  margin: 20px 0 0;
+  border-radius: 5px;
+  padding: 20px;
+  background: #1e1e1e;
+}
+
+.list > li .cont-box .code-area pre {
+  color: #fff;
+}
+/*# sourceMappingURL=common.css.map */
+/*
+.jelly-slider .jelly-prev {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	width: 30px;
+	height: 30px;
+	border: none;
+	background: none;
+	font-size: 0;
+	cursor: pointer;
+	display: none;
+}
+.jelly-slider .jelly-next {
+	position: absolute;
+	top: 50%;
+	right: 0;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+	width: 30px;
+	height: 30px;
+	border: none;
+	background: none;
+	font-size: 0;
+	cursor: pointer;
+	display: none;
+}*/
